@@ -1,2 +1,3 @@
 # Location-and-spectral-extraction-algorithm
-Location and spectral extraction algorithm for a static broadband snapshot imaging spectrometer（静态快照式成像光谱仪的定位和光谱提取算法仿真）
+Real-time detection, localization, and spectral extraction algorithm for The compact ultra-broadband snapshot imaging spectrometer (CBSIS) and the improved compact ultra-broadband snapshot imaging spectrometer (ICBSIS)
+（CBSIS和ICBSIS的光谱成像、探测、定位、光谱提取算法的仿真和性能分析）
